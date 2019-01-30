@@ -1,2 +1,4 @@
 print("Wellcome");
 print("how are you");
+prompt("What is your name&");
+
